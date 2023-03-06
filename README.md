@@ -1,1 +1,1 @@
-#Exemplos de aula da semanaq 06 do Módulo 01
+Exemplos de aula da semanaq 06 do Módulo 01
